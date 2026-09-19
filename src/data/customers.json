@@ -1,0 +1,26 @@
+[
+  {
+    "id": "c1",
+    "documentType": "RUC",
+    "documentNumber": "20123456789",
+    "name": "Acme SAC",
+    "email": "compras@acme.local",
+    "phone": "999999999",
+    "address": "Lima",
+    "active": true,
+    "createdAt": "2025-01-01",
+    "updatedAt": "2025-01-01"
+  },
+  {
+    "id": "c2",
+    "documentType": "DNI",
+    "documentNumber": "12345678",
+    "name": "Ana Pérez",
+    "email": "ana@example.com",
+    "phone": "988888888",
+    "address": "Lima",
+    "active": false,
+    "createdAt": "2025-01-01",
+    "updatedAt": "2025-01-01"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "u1",
+    "email": "admin@minierp.local",
+    "password": "Admin123*",
+    "name": "Administrador"
+  },
+  {
+    "id": "u2",
+    "email": "ventas@minierp.local",
+    "password": "Ventas123*",
+    "name": "Ventas"
+  }
+]

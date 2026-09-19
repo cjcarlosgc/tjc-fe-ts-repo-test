@@ -1,0 +1,35 @@
+[
+  {
+    "id": "p1",
+    "sku": "LAP-001",
+    "name": "Laptop Pro",
+    "description": "Equipo portátil",
+    "price": 2500,
+    "stock": 10,
+    "active": true,
+    "createdAt": "2025-01-01",
+    "updatedAt": "2025-01-01"
+  },
+  {
+    "id": "p2",
+    "sku": "MON-001",
+    "name": "Monitor 24",
+    "description": "Monitor HD",
+    "price": 650,
+    "stock": 20,
+    "active": true,
+    "createdAt": "2025-01-01",
+    "updatedAt": "2025-01-01"
+  },
+  {
+    "id": "p3",
+    "sku": "KEY-001",
+    "name": "Teclado",
+    "description": "Teclado mecánico",
+    "price": 180,
+    "stock": 0,
+    "active": false,
+    "createdAt": "2025-01-01",
+    "updatedAt": "2025-01-01"
+  }
+]
