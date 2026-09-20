@@ -356,6 +356,7 @@ export class ReceiptService {
     }
     const items: ReceiptItem[] = input.items.map((entry) => {
       const product = this.products.get(entry.productId);
+      assertPositive(entry.quantity, "Cantidad");
       return {
         productId: product.id,
         quantity: entry.quantity,
